@@ -1,12 +1,20 @@
-![giphy](https://user-images.githubusercontent.com/89845641/218969961-f3d78415-a6b3-4a2a-808e-ed3d4ac103d2.gif)
+
+![68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966](https://user-images.githubusercontent.com/89845641/219041405-1247bfad-3566-498d-9e5e-6ef49ed298c1.gif)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
- Мій стек технологій
+ ### Languages and Tools:
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=Sharp&logoColor=brightgreen)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
-![github](https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logoColor=white)
-![github](https://img.shields.io/badge/-html-red?style=for-the-badge&logoColor=white)
-![github](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logoColor=white)
-![github](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logoColor=white)
 
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dxp_10)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dxp_10)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]([https://www.linkedin.com/in/](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card))
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheni4ka&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=zheni4ka)
+
