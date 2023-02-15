@@ -8,3 +8,5 @@
 ![github](https://img.shields.io/badge/-html-red?style=for-the-badge&logoColor=white)
 ![github](https://img.shields.io/badge/-css-blueviolet?style=for-the-badge&logoColor=white)
 ![github](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
