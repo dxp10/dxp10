@@ -17,9 +17,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]([https://www.linkedin.com/in/](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card))
 
 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheni4ka&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=zheni4ka)
 
 
 
 ![giphy (2)](https://user-images.githubusercontent.com/89845641/219144237-cf8751f7-8c41-4fcd-a263-6e3df85b9fbc.gif)
+
+![giphy (3)](https://user-images.githubusercontent.com/89845641/219146070-768c59a3-a7f1-48f1-a931-124d6c681863.gif)
+![giphy (4)](https://user-images.githubusercontent.com/89845641/219146432-2e9e5760-ed0c-40bb-bede-214261100300.gif)
