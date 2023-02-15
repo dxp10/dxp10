@@ -1,5 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/89845641/219143009-6957ff75-fce3-4189-b2bd-89d482cbc3c8.gif)![giphy (1)](https://user-images.githubusercontent.com/89845641/219143303-13946a8c-a07a-4760-acd5-631a5c24e028.gif)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1587F7&background=2DFF7200&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&repeat=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&width=560&height=80&lines=Hi%2C+my+name+is+Eugene.+I+am+20+years+old.+;I'm+studying+to+be+a+back+end+developer)](https://git.io/typing-svg)
 
 
@@ -22,3 +20,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheni4ka&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=zheni4ka)
 
+
+![giphy](https://user-images.githubusercontent.com/89845641/219143009-6957ff75-fce3-4189-b2bd-89d482cbc3c8.gif)
