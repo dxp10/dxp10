@@ -17,7 +17,7 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dxp_10)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dxp_10)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]([https://www.linkedin.com/in/](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card)
 
 
 
