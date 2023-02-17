@@ -24,7 +24,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheni4ka&theme=github_dark) 
-![](https://komarev.com/ghpvc/?username=zheni4ka)
+![](https://komarev.com/ghpvc/?username=dxp10)
 
 
 
