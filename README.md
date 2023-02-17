@@ -20,8 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://ua.linkedin.com/in/evgeniy-han-356a16254?trk=people-guest_people_search-card)
 
 
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheni4ka&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=dxp10)
 
