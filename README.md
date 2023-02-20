@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1587F7&background=2DFF7200&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&repeat=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&width=560&height=80&lines=Hi%2C+my+name+is+Eugene.+I+am+20+years+old.+;I'm+studying+to+be+a+back+end+developer)](https://git.io/typing-svg)
-
-
-![68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966](https://user-images.githubusercontent.com/89845641/219041405-1247bfad-3566-498d-9e5e-6ef49ed298c1.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Evgeniy.++I+am+currently+studying+Back-end+technology)](https://git.io/typing-svg)
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6466676737336476722f696d6167652f75706c6f61642f76313632303036303438372f636f64696e672d667265616b5f63626366306f2e676966](https://user-images.githubusercontent.com/89845641/220162466-6b8d2740-5068-46e5-8061-15313dee9a63.gif)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
